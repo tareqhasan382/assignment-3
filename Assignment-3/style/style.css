@@ -1,0 +1,10 @@
+.bg-secondary{
+    background-color: #264653 !important;
+}
+.filter img{
+    cursor: pointer;
+  filter: grayscale(100%);
+}
+.filter img:hover {
+    filter: grayscale(0);
+  }
